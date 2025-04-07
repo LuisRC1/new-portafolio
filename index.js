@@ -22,9 +22,9 @@ proyectos.forEach(proyecto =>{
         
         <p>${proyecto.descripcion}</p>
         <p>${proyecto.fecha}</p>
-        <p>Tecnologías: ${getTecnologias(proyecto.tecnologias)}</p>
+        <p>Technologies: ${getTecnologias(proyecto.tecnologias)}</p>
     </div>
-    <a href="${proyecto.link}" target="_blank">Ver proyecto</a>
+    <a href="${proyecto.link}" target="_blank">View Project</a>
     `;
 })
 
