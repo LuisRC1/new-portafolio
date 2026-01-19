@@ -1,7 +1,7 @@
 const proyectos = [
     {
-        titulo: "Foro Hub (Coming soon)",
-        fecha: "2025",
+        titulo: "Foro Hub (Currently in development)",
+        fecha: "2026",
         descripcion: "Our API will manage topics with full CRUD, RESTful routes, validations, database integration, and secure access through authentication and authorization.",
         link: "https://github.com/LuisRC1?tab=repositories",
         imagen: "foroHub.png",
@@ -9,7 +9,7 @@ const proyectos = [
     },
     {
         titulo: "Literalura (Currently in development)",
-        fecha: "2025",
+        fecha: "2026",
         descripcion: "Developing a searchable literary database using Java, Spring Boot, and PostgreSQL, enabling users to filter books by name or language, explore authors by name or year, and view top downloads.",
         link: "https://github.com/LuisRC1/literalura",
         imagen: "literalura.png",
