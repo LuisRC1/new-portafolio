@@ -1,56 +1,55 @@
 const proyectos = [
     {
-        titulo: "Foro Hub (Currently in development)",
-        fecha: "2026",
-        descripcion: "Our API will manage topics with full CRUD, RESTful routes, validations, database integration, and secure access through authentication and authorization.",
-        link: "https://github.com/LuisRC1?tab=repositories",
+        titulo: "Foro Hub - Java Backend REST API",
+        fecha: "",
+        descripcion: "Designed and developed a RESTful backend API using Java and Spring Boot, implemented CRUD operations with input validation, integrated PostgreSQL for persistent data storage, secured endpoints using authentication and authorization mechanisms, followed clean architecture and REST best practices.",
         imagen: "foroHub.png",
-        tecnologias: ["Java", "Spring Boot", "SQL"]
+        tecnologias: ["Java", "Spring Boot", "PostgreSQL"]
     },
     {
-        titulo: "Literalura (Currently in development)",
-        fecha: "2026",
-        descripcion: "Developing a searchable literary database using Java, Spring Boot, and PostgreSQL, enabling users to filter books by name or language, explore authors by name or year, and view top downloads.",
+        titulo: "Literatura - Backend Application",
+        fecha: "",
+        descripcion: "Developed a searchable literary database backend, implemented book search by title and language, enabled author queries by name and publication year, and designed APIs to support data visualization and downloads.",
         link: "https://github.com/LuisRC1/literalura",
         imagen: "literalura.png",
         tecnologias: ["Java", "Spring Boot", "PostgreSQL"]
     },
     {
-        titulo: "Nuevo portafolio",
+        titulo: "New portfolio - Website",
         fecha: "January 2025",
-        descripcion: "Created a new portfolio",
+        descripcion: "",
         link: "https://new-portafolio-murex.vercel.app/",
         imagen: "newPortafolio2.png",
         tecnologias: ["HTML", "CSS", "JavaScript"]
     },
     {
-        titulo: "Conversor de monedas",
+        titulo: "Currency Converter - Java Application",
         fecha: "November 2024",
-        descripcion: "Built a Java-based currency converter in IntelliJ IDEA using Gson and ExchangeRate-API, enabling conversion between ARS, BRL, COP, and USD with robust input validation for reusability.",
+        descripcion: "Built a Java-based currency converter, integrated Gson and the ExchangeRate API, implemented conversions between ARS, BRL, COP, and USD, added robust input validation for scalability and reuse.",
         link: "https://github.com/LuisRC1/conversordemonedas",
         imagen: "conversorDeMonedas.png",
         tecnologias: ["Java", "Gson", "ExchangeRate-API", "IntelliJ IDEA"]
     },
     {
-        titulo: "Encriptador de texto",
+        titulo: "Text Encryptor - Web Application",
         fecha: "From July 2024 - August 2024",
-        descripcion: "Implemented a text encryption and decryption tool using HTML, CSS, and JavaScript, excludes uppercase letters, accents, and special characters, with a copy-to-clipboard feature for easy reuse.",
+        descripcion: "Developed a text encryption and decryption tool using HTML, CSS, and JavaScript with custom encryption rules and copy-to-clipboard functionality to enhance the user experience.",
         link: "https://encriptador-de-texto-ivory-theta.vercel.app/",
         imagen: "encriptadorDeTexto.png",
         tecnologias: ["HTML", "CSS", "JavaScript"]
     },
     {
-        titulo: "Portafolio",
+        titulo: "Portfolio - Website",
         fecha: "From July 2024 - August 2024",
-        descripcion: "Created my first portfolio",
+        descripcion: "",
         link: "https://portafolio-pi-coral.vercel.app/",
         imagen: "portafolioOld.png",
         tecnologias: ["HTML", "CSS"]
     },
     {
-        titulo: "Juego secreto",
+        titulo: "Secret Number Game - Web Application",
         fecha: "From June 2024 - July 2024",
-        descripcion: "Developed a number-guessing game using HTML, CSS, and JavaScript that generates a random number from 1 to 10, provides clues for the user, and includes a reset button for replayability.",
+        descripcion: "Developed a number-guessing game with random number generation, implemented hints and reset functionality for replayability.",
         link: "https://luisrc1.github.io/juego-secreto/",
         imagen: "juegoSecreto.png",
         tecnologias: ["HTML", "CSS", "JavaScript"]
@@ -59,7 +58,7 @@ const proyectos = [
 
 const informacionPersonal = {
     nombre: "Luis Rivas",
-    subtitulo: "Java Developer",
+    subtitulo: "Java rfg rtytrDeveloper",
     imagen: "img/IMG_20210226_223100.jpg",
     otros: [
         ["Nationality", "Mexican"], 
@@ -72,8 +71,8 @@ const informacionPersonal = {
         ["Spanish", "Native"],["English", "Intermediate"]
     ],
     tecnologias: [
-        ["Java", 8],["Spring Boot", 7],["SQL", 7],["HTML", 8],["CSS", 8],
-        ["Javascript",6],["C",6]
+        ["Java", 7],["Spring Boot", 6],["PostgreSQL", 6],["MySQL", 6],["HTML", 7],
+        ["CSS",6],["Javascript",6]
     ],
     redes: [
         ["GitHub", "https://github.com/LuisRC1"],
