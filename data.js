@@ -3,6 +3,7 @@ const proyectos = [
         titulo: "Foro Hub - Java Backend REST API",
         fecha: "",
         descripcion: "Designed and developed a RESTful backend API using Java and Spring Boot, implemented CRUD operations with input validation, integrated PostgreSQL for persistent data storage, secured endpoints using authentication and authorization mechanisms, followed clean architecture and REST best practices.",
+        link: "https://github.com/LuisRC1/forohub"
         imagen: "foroHub.png",
         tecnologias: ["Java", "Spring Boot", "PostgreSQL"]
     },
