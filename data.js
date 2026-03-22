@@ -36,7 +36,7 @@ const proyectos = [
         fecha: "From July 2024 - August 2024",
         descripcion: "Developed a text encryption and decryption tool using HTML, CSS, and JavaScript with custom encryption rules and copy-to-clipboard functionality to enhance the user experience.",
         link: "https://encriptador-de-texto-ivory-theta.vercel.app/",
-        imagen: "encriptadorDeTexto.png",
+        imagen: "textEncryptor.png",
         tecnologias: ["HTML", "CSS", "JavaScript"]
     },
     {
@@ -44,7 +44,7 @@ const proyectos = [
         fecha: "From July 2024 - August 2024",
         descripcion: "",
         link: "https://portafolio-pi-coral.vercel.app/",
-        imagen: "portafolioOld.png",
+        imagen: "oldPorfolio.png",
         tecnologias: ["HTML", "CSS"]
     },
     {
