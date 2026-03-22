@@ -52,7 +52,7 @@ const proyectos = [
         fecha: "From June 2024 - July 2024",
         descripcion: "Developed a number-guessing game with random number generation, implemented hints and reset functionality for replayability.",
         link: "https://luisrc1.github.io/juego-secreto/",
-        imagen: "juegoSecreto.png",
+        imagen: "secretNumberGame.png",
         tecnologias: ["HTML", "CSS", "JavaScript"]
     }
 ];
