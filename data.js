@@ -17,7 +17,7 @@ const proyectos = [
     },
     {
         titulo: "New portfolio - Website",
-        fecha: "January 2025",
+        fecha: "January 2025 - March 2026",
         descripcion: "",
         link: "https://new-portafolio-murex.vercel.app/",
         imagen: "newPortafolio2.png",
@@ -25,15 +25,15 @@ const proyectos = [
     },
     {
         titulo: "Currency Converter - Java Application",
-        fecha: "November 2024",
-        descripcion: "Built a Java-based currency converter, integrated Gson and the ExchangeRate API, implemented conversions between ARS, BRL, COP, and USD, added robust input validation for scalability and reuse.",
+        fecha: "March 2026",
+        descripcion: "Built a Spring Boot-based currency converter, integrated the ExchangeRate API, implemented conversions between ARS, BRL, COP, MXN, and USD, added robust input validation for scalability and reuse.",
         link: "https://conversordemonedas-production.up.railway.app/",
         imagen: "conversorDeMonedas.png",
-        tecnologias: ["Java", "Gson", "ExchangeRate-API", "IntelliJ IDEA"]
+        tecnologias: ["Spring Boot", "ExchangeRate-API", "IntelliJ IDEA"]
     },
     {
         titulo: "Text Encryptor - Web Application",
-        fecha: "From July 2024 - August 2024",
+        fecha: "From July 2024 - August 2024 - March 2026",
         descripcion: "Developed a text encryption and decryption tool using HTML, CSS, and JavaScript with custom encryption rules and copy-to-clipboard functionality to enhance the user experience.",
         link: "https://encriptador-de-texto-ivory-theta.vercel.app/",
         imagen: "textEncryptor.png",
@@ -41,7 +41,7 @@ const proyectos = [
     },
     {
         titulo: "Portfolio - Website",
-        fecha: "From July 2024 - August 2024",
+        fecha: "From July 2024 - August 2024 - March 2026",
         descripcion: "",
         link: "https://portafolio-pi-coral.vercel.app/",
         imagen: "oldPorfolio.png",
@@ -49,7 +49,7 @@ const proyectos = [
     },
     {
         titulo: "Secret Number Game - Web Application",
-        fecha: "From June 2024 - July 2024",
+        fecha: "From June 2024 - July 2024 - March 2026",
         descripcion: "Developed a number-guessing game with random number generation, implemented hints and reset functionality for replayability.",
         link: "https://luisrc1.github.io/juego-secreto/",
         imagen: "secretNumberGame.png",
