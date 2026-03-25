@@ -27,7 +27,7 @@ const proyectos = [
         titulo: "Currency Converter - Java Application",
         fecha: "November 2024",
         descripcion: "Built a Java-based currency converter, integrated Gson and the ExchangeRate API, implemented conversions between ARS, BRL, COP, and USD, added robust input validation for scalability and reuse.",
-        link: "https://github.com/LuisRC1/conversordemonedas",
+        link: "https://conversordemonedas-production.up.railway.app/",
         imagen: "conversorDeMonedas.png",
         tecnologias: ["Java", "Gson", "ExchangeRate-API", "IntelliJ IDEA"]
     },

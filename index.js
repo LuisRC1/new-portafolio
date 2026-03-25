@@ -19,7 +19,6 @@ proyectos.forEach(proyecto =>{
     <img src="img/proyectos/${proyecto.imagen}">
     <div>
         <h3>${proyecto.titulo}</h3>
-        
         <p>${proyecto.descripcion}</p>
         <p>${proyecto.fecha}</p>
         <p>Technologies: ${getTecnologias(proyecto.tecnologias)}</p>
