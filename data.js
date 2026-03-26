@@ -13,7 +13,7 @@ const proyectos = [
         descripcion: "Developed a searchable literary database backend, implemented book search by title and language, enabled author queries by name and publication year, and designed APIs to support data visualization and downloads.",
         link: "https://github.com/LuisRC1/literalura",
         imagen: "literalura.png",
-        tecnologias: ["Java", "Spring Boot", "PostgreSQL"]
+        tecnologias: ["Java", "Spring Boot", "PostgreSQL", "Git & Github"]
     },
     {
         titulo: "New portfolio - Website",
@@ -21,15 +21,15 @@ const proyectos = [
         descripcion: "",
         link: "https://new-portafolio-murex.vercel.app/",
         imagen: "newPortafolio2.png",
-        tecnologias: ["HTML", "CSS", "JavaScript"]
+        tecnologias: ["HTML", "CSS", "JavaScript", "Git & Github"]
     },
     {
         titulo: "Currency Converter - Java Application",
-        fecha: "March 2026",
-        descripcion: "Built a Spring Boot-based currency converter, integrated the ExchangeRate API, implemented conversions between ARS, BRL, COP, MXN, and USD, added robust input validation for scalability and reuse.",
+        fecha: "November 2024- March 2026",
+        descripcion: "Developed a Full-Stack Web Application for real-time currency conversion, supporting USD, ARS, BRL, COP, and MXN. Integrated an external exchange rate API to provide accurate and up-to-date conversions, and built the complete solution using Spring Boot, connecting both frontend and backend to deliver a seamless user experience.",
         link: "https://conversordemonedas-production.up.railway.app/",
         imagen: "conversorDeMonedas.png",
-        tecnologias: ["Spring Boot", "ExchangeRate-API", "IntelliJ IDEA"]
+        tecnologias: ["Java", "Spring Boot", "HTML", "CSS", "JavaScript", "Railway", "ExchangeRate-API", "IntelliJ IDEA", "Git & Github"]
     },
     {
         titulo: "Text Encryptor - Web Application",
@@ -37,7 +37,7 @@ const proyectos = [
         descripcion: "Developed a text encryption and decryption tool using HTML, CSS, and JavaScript with custom encryption rules and copy-to-clipboard functionality to enhance the user experience.",
         link: "https://encriptador-de-texto-ivory-theta.vercel.app/",
         imagen: "textEncryptor.png",
-        tecnologias: ["HTML", "CSS", "JavaScript"]
+        tecnologias: ["HTML", "CSS", "JavaScript", "Vercel", "Git & Github"]
     },
     {
         titulo: "Portfolio - Website",
@@ -45,7 +45,7 @@ const proyectos = [
         descripcion: "",
         link: "https://portafolio-pi-coral.vercel.app/",
         imagen: "oldPorfolio.png",
-        tecnologias: ["HTML", "CSS"]
+        tecnologias: ["HTML", "CSS", "Vercel", "Git & Github"]
     },
     {
         titulo: "Secret Number Game - Web Application",
@@ -53,7 +53,7 @@ const proyectos = [
         descripcion: "Developed a number-guessing game with random number generation, implemented hints and reset functionality for replayability.",
         link: "https://luisrc1.github.io/juego-secreto/",
         imagen: "secretNumberGame.png",
-        tecnologias: ["HTML", "CSS", "JavaScript"]
+        tecnologias: ["HTML", "CSS", "JavaScript", "Git & Github"]
     }
 ];
 
